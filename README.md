@@ -1,7 +1,12 @@
-CLI-Todo-App-Go
+# ***CLI-Todo-App-Go***
 
-go run ./ -add "menambah list"
-go run ./ -edit "1: edit index 1"
-go run ./ -list => tampilkan todo list
-go run ./ -toggle 2 => ceklis index ke 2
-go run ./ -del 2 => delete index ke 2
+<p>go run ./ -add "menambah list"</p>
+<p>go run ./ -edit "1: edit index 1"</p>
+<p>go run ./ -list => tampilkan todo list</p>
+<p>go run ./ -toggle 2 => ceklis index ke 2</p>
+<p>go run ./ -del 2 => delete index ke 2</p>
+
+
+
+
+
